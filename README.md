@@ -25,8 +25,7 @@ When you open a `.blend` file on a different OS or machine, textures, libraries,
 ## Installation
 
 1. Download the latest `.zip` from [Releases](../../releases)
-2. In Blender: **Edit → Preferences → Extensions → Install from Disk**
-3. Select the `.zip` file
+2. Drag and drop in viewport
 
 ---
 
