@@ -1,0 +1,13 @@
+
+schema_version = "1.0.0"
+
+id = "cross_platform_path_mapper"
+version = "3.9.0"
+name = "BB Path Mapper"
+tagline = "Cross-platform path remapping by Blender Bob"
+maintainer = "Blender Bob and Claude.ai"
+type = "add-on"
+
+blender_version_min = "5.0.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
